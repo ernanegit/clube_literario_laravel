@@ -1,0 +1,3 @@
+<div>
+    <!-- Widget desabilitado -->
+</div>
